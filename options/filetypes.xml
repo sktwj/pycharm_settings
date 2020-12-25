@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping pattern="ttt" type="PLAIN_TEXT" />
+      <mapping pattern="调整wine-wechat字体.md" type="PLAIN_TEXT" />
+      <mapping pattern="tt" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping ext="iss" type="PLAIN_TEXT" />
+      <mapping ext="pybak" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

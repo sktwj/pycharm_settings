@@ -1,0 +1,28 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorPreviousWord" />
+  <action id="EditorScrollToCenter" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
+  <action id="ScrollTreeToCenter" />
+  <action id="TodoViewGroupByShowModules" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+</keymap>

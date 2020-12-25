@@ -1,0 +1,11 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="91ed2fbe-1b6b-475c-9c4d-13870c7be268" name="sktwj">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="sktwj" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
