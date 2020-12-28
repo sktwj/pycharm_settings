@@ -1,0 +1,9 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="EditorScrollToCenter" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+</keymap>
