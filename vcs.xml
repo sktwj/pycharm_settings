@@ -10,6 +10,10 @@
           <option name="url" value="git@github.com:marshmallow-code/webargs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:darknessomi/musicbox.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/test" />
