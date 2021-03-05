@@ -61,6 +61,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Django Console" timestamp="1614936603880">
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="3" />
+      </file>
       <file name="/snippets_snippet [db]" timestamp="1612430337405">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,7 +148,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
