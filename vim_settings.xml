@@ -4,9 +4,15 @@
   </component>
   <component name="VimHistorySettings">
     <history>
+      <history-search>
+        <entry>REST</entry>
+        <entry>INSTALL</entry>
+      </history-search>
       <history-cmd>
         <entry>w!</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -26,11 +32,24 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/test/drf-tutorial/tutorial/settings.py" timestamp="1614935869338">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="21" />
+        <mark key="^" line="37" column="21" />
+        <mark key="." line="37" column="20" />
+      </file>
       <file name="/Python Console" timestamp="1612430674708">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,6 +63,12 @@
       </file>
       <file name="/snippets_snippet [db]" timestamp="1612430337405">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/test/drf-tutorial/tutorial/urls.py" timestamp="1614935646110">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="35" />
+        <mark key="^" line="27" column="35" />
+        <mark key="." line="27" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/web_api/trunk/webapi/renderers.py" timestamp="1609121831222">
         <mark key="[" line="11" column="0" />
@@ -59,36 +84,66 @@
       <file name="/snippets_snippet" timestamp="1612430337418">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/test/drf-tutorial/tutorial/quickstart/serializers.py" timestamp="1614936089984">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/test/drf-tutorial/tutorial/quickstart/views.py" timestamp="1614935391452">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="28" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="89" column="4" filename="$USER_HOME$/workspace/test/drf-tutorial/tutorial/settings.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/workspace/test/drf-tutorial/tutorial/settings.py" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBhdGgoIiIsIGluY2x1ZGUocm91dGVyLnVybHMpKQo=</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">ICAgIHF1ZQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>s</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ayAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoNSk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text>INSTALL</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>INSTALL</last-search>
+      <last-offset />
+      <last-pattern>INSTALL</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
