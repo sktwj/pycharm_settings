@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <hashBang value="signals.py" type="GitIgnore file" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="signals.py" type="Python" />
       <removed_mapping pattern="signals.py" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
