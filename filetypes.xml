@@ -7,6 +7,7 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="signals.py" type="Python" />
+      <removed_mapping ext="proto" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="signals.py" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
