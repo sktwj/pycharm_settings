@@ -57,6 +57,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -147,6 +153,7 @@
       <jump line="2041" column="31" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
       <jump line="714" column="47" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
       <jump line="716" column="10" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="160" column="18" filename="$USER_HOME$/workspace/machine_kiosk/ckc/ckc/ckforms/payment/ckc_r2p_checkout_ecny_nfc_form.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -205,7 +212,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
