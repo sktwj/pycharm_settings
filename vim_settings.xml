@@ -7,6 +7,13 @@
       <history-search>
         <entry>REST</entry>
         <entry>INSTALL</entry>
+        <entry>def choose</entry>
+        <entry encoding="base64">XDxtaWRkbGVfbm96XD4=</entry>
+        <entry>def simple</entry>
+        <entry encoding="base64">XDxmaWx0ZXJfYmxpbmRfc2xvdHNcPg==</entry>
+        <entry encoding="base64">XDxjb2xfbGVuXD4=</entry>
+        <entry>Sample</entry>
+        <entry encoding="base64">XDxzaWduX3hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
@@ -47,22 +54,15 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/test/drf-tutorial/tutorial/settings.py" timestamp="1614935869338">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="21" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="37" column="20" />
-      </file>
-      <file name="/Python Console" timestamp="1612430674708">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1612430337431">
+      <file name="/Python Console" timestamp="1634997916073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/test/tutorial/snippets/serializers.py" timestamp="1612430677980">
@@ -70,10 +70,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1614936603880">
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="3" />
+      <file name="$USER_HOME$/workspace/new_robo/base/base_robo.py" timestamp="1634998624811">
+        <mark key="'" line="716" column="10" />
+        <mark key="[" line="769" column="34" />
+        <mark key="]" line="769" column="46" />
+        <mark key="^" line="769" column="46" />
+        <mark key="." line="769" column="45" />
       </file>
       <file name="/snippets_snippet [db]" timestamp="1612430337405">
         <mark key="[" line="0" column="0" />
@@ -84,11 +86,6 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/web_api/trunk/webapi/renderers.py" timestamp="1609121831222">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/test/tutorial/snippets/models.py" timestamp="1612430156158">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="18" column="8" />
@@ -97,6 +94,26 @@
       </file>
       <file name="/snippets_snippet" timestamp="1612430337418">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/test/drf-tutorial/tutorial/settings.py" timestamp="1614935869338">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="21" />
+        <mark key="^" line="37" column="21" />
+        <mark key="." line="37" column="20" />
+      </file>
+      <file name="/foo.bar" timestamp="1612430337431">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Django Console" timestamp="1614936603880">
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/web_api/trunk/webapi/renderers.py" timestamp="1609121831222">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/test/drf-tutorial/tutorial/quickstart/serializers.py" timestamp="1614936089984">
         <mark key="[" line="13" column="23" />
@@ -114,44 +131,75 @@
     <jumps>
       <jump line="89" column="4" filename="$USER_HOME$/workspace/test/drf-tutorial/tutorial/settings.py" />
       <jump line="119" column="0" filename="$USER_HOME$/workspace/test/drf-tutorial/tutorial/settings.py" />
+      <jump line="855" column="22" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="841" column="8" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="471" column="13" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="734" column="29" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="862" column="63" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="614" column="21" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="495" column="45" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="654" column="29" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="656" column="34" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="659" column="34" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="717" column="8" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="721" column="32" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="722" column="11" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="2041" column="31" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="714" column="47" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="716" column="10" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="&quot;" type="4">
+        <text>0</text>
+      </register>
+      <register name="-" type="4">
+        <text>0</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzaWduX3hcPg==</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhdGgoIiIsIGluY2x1ZGUocm91dGVyLnVybHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHF1ZQo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAndGFyZ2V0JzogJ3gnLCAnc2Vuc29yJzogJ2EnLCAnc2xvdF90eXBlJzogc2xvdF90eXBlfQogICAgICAgICAgICByZXR1cm4gW10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ayAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCdja2MgY2FuY2VsIHNjYW5uaW5nLi4nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNjYW5uaW5nX3N0YXRlID09IFNULlNDQU5fSURMRToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoNSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaW1wbGVfc2xvdHMgPSBzZWxmLnNpbXBsZV9kZXRlY3Rfb25lX3dheSgqKnBhcmFtKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAicnMiOiBERVZfQ09ORi54X21tMnB1bHNlICogREVWX0NPTkYubm96X3JzfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIG9mZnNldF9ub3pfbWFwcGluZyA9IHsibHMiOiBERVZfQ09ORi54X21tMnB1bHNlICogREVWX0NPTkYubm96X2xzLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHF1ZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ayAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
-      </register>
-      <register name="-" type="4">
-        <text>s</text>
-      </register>
-      <register name="/" type="4">
-        <text>INSTALL</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>INSTALL</last-search>
+      <last-search encoding="base64">XDxzaWduX3hcPg==</last-search>
       <last-offset />
-      <last-pattern>INSTALL</last-pattern>
+      <last-pattern encoding="base64">XDxzaWduX3hcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
