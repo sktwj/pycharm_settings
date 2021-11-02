@@ -76,12 +76,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/new_robo/base/base_robo.py" timestamp="1634998624811">
+      <file name="$USER_HOME$/workspace/new_robo/base/base_robo.py" timestamp="1635854210088">
         <mark key="'" line="716" column="10" />
-        <mark key="[" line="769" column="34" />
-        <mark key="]" line="769" column="46" />
-        <mark key="^" line="769" column="46" />
-        <mark key="." line="769" column="45" />
+        <mark key="[" line="2769" column="32" />
+        <mark key="]" line="2769" column="35" />
+        <mark key="^" line="2769" column="35" />
+        <mark key="." line="2769" column="34" />
       </file>
       <file name="/snippets_snippet [db]" timestamp="1612430337405">
         <mark key="[" line="0" column="0" />
@@ -159,10 +159,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>MOTOR_PL</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>MOTOR_PL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaWduX3hcPg==</text>
