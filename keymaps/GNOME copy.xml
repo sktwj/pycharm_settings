@@ -1,4 +1,7 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="EditorScrollToCenter" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
