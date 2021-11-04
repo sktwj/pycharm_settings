@@ -25,6 +25,10 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
