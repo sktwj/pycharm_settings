@@ -49,6 +49,9 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
