@@ -81,8 +81,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/new_robo/base/base_robo.py" timestamp="1635992490225">
-        <mark key="'" line="172" column="33" />
+      <file name="$USER_HOME$/workspace/new_robo/base/base_robo.py" timestamp="1635993027201">
+        <mark key="'" line="157" column="27" />
         <mark key="[" line="150" column="24" />
         <mark key="]" line="150" column="24" />
         <mark key="^" line="2769" column="35" />
@@ -165,6 +165,8 @@
       <jump line="609" column="41" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
       <jump line="170" column="37" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
       <jump line="172" column="33" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="149" column="29" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="157" column="27" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -223,7 +225,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
