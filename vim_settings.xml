@@ -14,6 +14,8 @@
         <entry encoding="base64">XDxjb2xfbGVuXD4=</entry>
         <entry>Sample</entry>
         <entry encoding="base64">XDxzaWduX3hcPg==</entry>
+        <entry>def poll</entry>
+        <entry encoding="base64">XDxwb2xsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
@@ -63,12 +65,15 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1634997916073">
+      <file name="/Python Console" timestamp="1635992380944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/test/tutorial/snippets/serializers.py" timestamp="1612430677980">
@@ -76,12 +81,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/new_robo/base/base_robo.py" timestamp="1635854210088">
-        <mark key="'" line="716" column="10" />
-        <mark key="[" line="2769" column="32" />
-        <mark key="]" line="2769" column="35" />
+      <file name="$USER_HOME$/workspace/new_robo/base/base_robo.py" timestamp="1635992490225">
+        <mark key="'" line="172" column="33" />
+        <mark key="[" line="150" column="24" />
+        <mark key="]" line="150" column="24" />
         <mark key="^" line="2769" column="35" />
-        <mark key="." line="2769" column="34" />
+        <mark key="." line="150" column="24" />
       </file>
       <file name="/snippets_snippet [db]" timestamp="1612430337405">
         <mark key="[" line="0" column="0" />
@@ -154,18 +159,24 @@
       <jump line="714" column="47" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
       <jump line="716" column="10" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
       <jump line="160" column="18" filename="$USER_HOME$/workspace/machine_kiosk/ckc/ckc/ckforms/payment/ckc_r2p_checkout_ecny_nfc_form.py" />
+      <jump line="130" column="54" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="177" column="4" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="350" column="24" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="609" column="41" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="170" column="37" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
+      <jump line="172" column="33" filename="$USER_HOME$/workspace/new_robo/base/base_robo.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>MOTOR_PL</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>MOTOR_PL</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaWduX3hcPg==</text>
+        <text encoding="base64">XDxwb2xsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhdGgoIiIsIGluY2x1ZGUocm91dGVyLnVybHMpKQo=</text>
@@ -204,9 +215,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaWduX3hcPg==</last-search>
+      <last-search encoding="base64">XDxwb2xsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaWduX3hcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwb2xsXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
