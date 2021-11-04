@@ -3,7 +3,15 @@
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="CodeCompletion" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="EditorScrollToCenter" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
