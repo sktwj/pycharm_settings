@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="CodeCompletion" />
+  <action id="EditorContextInfo" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt j" />
