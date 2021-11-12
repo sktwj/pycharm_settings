@@ -5,6 +5,7 @@
       <hashBang value="signals.py" type="GitIgnore file" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="signals.py" type="Python" />
       <removed_mapping ext="proto" approved="true" type="PLAIN_TEXT" />
