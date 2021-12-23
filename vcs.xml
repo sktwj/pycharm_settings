@@ -46,9 +46,13 @@
           <option name="url" value="https://github.com/sktwj/CtCI-6th-Edition-Python.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.cereson.cn/cereson/cheers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/test" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
