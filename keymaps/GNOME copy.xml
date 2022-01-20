@@ -53,11 +53,10 @@
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
-  <action id="SelectNextOccurrence" />
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="SelectNextOccurrence" />
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="UnselectPreviousOccurrence" />
   <action id="Vcs.ShowMessageHistory">
